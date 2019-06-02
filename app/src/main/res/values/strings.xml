@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Playground</string>
+    <string name="firstName">Vorname</string>
+    <string name="comment">Kommentar</string>
+    <string name="repeat_password">Passwort wiederholen</string>
+    <string name="username">Benutzername</string>
+    <string name="back">Zurück</string>
+    <string name="last_name">Nachname</string>
+    <string name="submit">Absenden</string>
+    <string name="password">Passwort</string>
+    <string name="email_address">E-Mail-Adresse</string>
 </resources>
